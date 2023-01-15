@@ -36,7 +36,7 @@ function Hero() {
           </p>
         </div>
         <p className='md:text-2xl text-xl font-bold text-gray-500 '>
-          We propose tailor-made solutions to fit your mobility needs
+          We propose tailor-made solutions to fit your mobility needs 
           {' \u0026'} your budget. No blackout periods with our
           discount rates!
         </p>
